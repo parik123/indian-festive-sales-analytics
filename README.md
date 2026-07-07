@@ -1,0 +1,14 @@
+# Indian Festive Season Sales Analytics Dashboard (SQL Engine)
+
+## 📌 Business Scenario
+During the annual Indian festive season window (September–November), e-commerce transaction frequencies spike drastically. This project engineers a robust relational database schema to monitor and evaluate **Gross Merchandise Value (GMV)** distribution channels, determine Average Ticket Sizes, rank geographical performance thresholds, and isolate regional payment mode trends (UPI vs. Cash on Delivery) using advanced analytical querying.
+
+## 🛠️ Technical Concepts Demonstrated
+* **Advanced Analytical Window Functions:** Implemented `RANK()`, `SUM() OVER()`, and `LAG()` metrics to structure operational running totals and handle transactional temporal sequences over multi-week sales timelines.
+* **Complex Data Aggregations & CTEs:** Used Common Table Expressions (CTEs) to segment database querying paths into clean, high-performance logic flows.
+* **Relational Schema Integrity:** Engineered proper primary-to-foreign key mappings across consumer demographic tiers and transactional purchase structures.
+
+## 📈 Strategic Data Insights Found
+* **Geographical Concentration:** High-value product transactions (Electronics) remained concentrated within Tier-1 metropolitan markets like Maharashtra and Karnataka.
+* **Payment Architecture Nuances:** While Tier-1 zones display a heavy structural preference toward immediate digital settlements via UPI, remote Tier-2 and Tier-3 markets show a lingering reliance on Cash on Delivery (COD) for transactional security.
+* **Festive Multiplier Effect:** The Month-over-Month calculation captures a definitive multi-fold revenue jump during the October festive peak relative to baseline operational months.
