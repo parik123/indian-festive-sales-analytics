@@ -12,3 +12,5 @@ During the annual Indian festive season window (September–November), e-commerc
 * **Geographical Concentration:** High-value product transactions (Electronics) remained concentrated within Tier-1 metropolitan markets like Maharashtra and Karnataka.
 * **Payment Architecture Nuances:** While Tier-1 zones display a heavy structural preference toward immediate digital settlements via UPI, remote Tier-2 and Tier-3 markets show a lingering reliance on Cash on Delivery (COD) for transactional security.
 * **Festive Multiplier Effect:** The Month-over-Month calculation captures a definitive multi-fold revenue jump during the October festive peak relative to baseline operational months.
+### 📊 Query Execution Output
+![Regional Sales Velocity](screenshots/query1_output.png)
