@@ -13,5 +13,8 @@ During the annual Indian festive season window (September–November), e-commerc
 * **Payment Architecture Nuances:** While Tier-1 zones display a heavy structural preference toward immediate digital settlements via UPI, remote Tier-2 and Tier-3 markets show a lingering reliance on Cash on Delivery (COD) for transactional security.
 * **Festive Multiplier Effect:** The Month-over-Month calculation captures a definitive multi-fold revenue jump during the October festive peak relative to baseline operational months.
 ### 📊 Query Execution Output
-![Regional Sales Velocity](screenshots/query1_output.png)
 <img width="897" height="405" alt="Screenshot 2026-07-08 163837" src="https://github.com/user-attachments/assets/ef2223cd-d435-4f3b-87cd-8e0e62ade6fd" />
+<img width="887" height="402" alt="Screenshot 2026-07-08 163847" src="https://github.com/user-attachments/assets/572995ed-5a6c-447d-8abd-133e886d4b6a" />
+<img width="896" height="377" alt="Screenshot 2026-07-08 163854" src="https://github.com/user-attachments/assets/408b2456-f4ca-4d3d-88b2-28aab7fb2c81" />
+
+
