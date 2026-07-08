@@ -14,3 +14,4 @@ During the annual Indian festive season window (September–November), e-commerc
 * **Festive Multiplier Effect:** The Month-over-Month calculation captures a definitive multi-fold revenue jump during the October festive peak relative to baseline operational months.
 ### 📊 Query Execution Output
 ![Regional Sales Velocity](screenshots/query1_output.png)
+<img width="897" height="405" alt="Screenshot 2026-07-08 163837" src="https://github.com/user-attachments/assets/ef2223cd-d435-4f3b-87cd-8e0e62ade6fd" />
